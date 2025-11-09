@@ -2,7 +2,10 @@
 ## Project Background
 
 ## Tools Used
-
+**Python**:
+1. Pandas: a powerful Python library used for data analysis and manipulation, such as cleaning datasets, aggregating data, and performing statistical calculations.
+2. Matplotlib: a Python library for creating visualizations, including line plots, bar charts, histograms, and more, to help interpret data.
+3. Data Wrangler (VS Code Extension): a VS Code extension that provides pre-built code snippets and interactive tools to speed up data analysis workflows in Python, especially when working with Pandas and Matplotlib.
 ## Dataset Source
 **UCL Machine Learning Repository**: [Online Retail Dataset](https://archive.ics.uci.edu/dataset/352/online+retail)
 
