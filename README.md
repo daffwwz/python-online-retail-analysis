@@ -1,5 +1,7 @@
 # online-retail-dataset-analysis
 ## Project Background
 
-## Dataset
-UCL Machine Learning Repository ![article](https://archive.ics.uci.edu/dataset/352/online+retail)
+## Tools Used
+
+## Dataset Source
+**UCL Machine Learning Repository**: [Online Retail](https://archive.ics.uci.edu/dataset/352/online+retail)
