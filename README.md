@@ -16,7 +16,7 @@ This is a transactional data set which contains all the transactions occurring b
 2.  Visualize some plots related to Business Performance & Revenue Analysis
 
 ## Visualization using Matplotlib
-![Top 10 Countries by Transactions](top_10_countries_transactions_labeled.png)
-![Top 10 Customers by Transactions](top_10_customers_transactions.png)
-![Top 10 Products by Revenues](top_10_products_revenue.png)
-![Total Revenues in 2011](yearly_total_revenue_2011.png)
+![Top 10 Countries by Transactions](./images/top_10_countries_transactions_labeled.png)
+![Top 10 Customers by Transactions](./images/top_10_customers_transactions.png)
+![Top 10 Products by Revenues](./images/top_10_products_revenue.png)
+![Total Revenues in 2011](./images/yearly_total_revenue_2011.png)
