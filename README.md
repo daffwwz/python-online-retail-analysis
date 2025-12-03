@@ -53,11 +53,10 @@ Analyzing the top products by revenue provides actionable insights for sales str
 ### Total Revenues in 2011
 ![Total Revenues in 2011](./images/yearly_total_revenue_2011.png)
 **Insights:**
-**Monthly or quarterly trends:** Determine which months generated the highest revenue (e.g., holiday seasons or special events).
-**Peak season planning:** Optimize inventory, staffing, and marketing campaigns ahead of high-revenue months.
-**Off-peak strategies:** Identify months with lower revenue and design promotions or campaigns to boost sales during these periods.
-**Forecasting:** Use seasonal patterns to predict future monthly revenue and improve cash flow management.
-**Performance evaluation:** Compare actual revenue to seasonal expectations to assess the effectiveness of sales and marketing strategies.
+1. **Monthly or quarterly trends:** Determine which months generated the highest revenue (e.g., holiday seasons or special events).
+2. **Off-peak strategies:** Identify months with lower revenue and design promotions or campaigns to boost sales during these periods.
+3. **Forecasting:** Use seasonal patterns to predict future monthly revenue and improve cash flow management.
+4. **Performance evaluation:** Compare actual revenue to seasonal expectations to assess the effectiveness of sales and marketing strategies.
 
 **Conclusion:**
 Analyzing revenue seasonality allows the business to align operational, marketing, and financial strategies with customer purchasing behavior, maximizing revenue and efficiency throughout the year.
