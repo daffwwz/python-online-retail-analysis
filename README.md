@@ -17,6 +17,18 @@ This is a transactional data set which contains all the transactions occurring b
 
 ## Visualization using Matplotlib
 ![Top 10 Countries by Transactions](./images/top_10_countries_transactions_labeled.png)
+**Description:**
+This chart shows the top 10 countries by the number of transactions, highlighting where most sales are occurring geographically. It provides a clear view of market concentration, helping to identify which countries are the most active in terms of customer engagement and purchases.
+
+**Insights from the chart:**
+Market segmentation by country: The chart allows us to see which countries contribute the largest share of transactions, enabling targeted marketing or resource allocation.
+Customer base distribution: Countries with higher transaction counts indicate a more active or larger customer base, which can guide expansion or retention strategies.
+Opportunity identification: Countries outside the top 10 may represent untapped markets or regions with growth potential.
+Strategic planning: Understanding transaction distribution can inform inventory management, logistics planning, and promotional campaigns tailored to high-performing countries.
+
+**Conclusion:**
+This visualization is an essential tool for geographic market analysis, helping the business prioritize efforts, identify key markets, and optimize sales strategies based on country-level performance.
+
 ![Top 10 Customers by Transactions](./images/top_10_customers_transactions.png)
 ![Top 10 Products by Revenues](./images/top_10_products_revenue.png)
 ![Total Revenues in 2011](./images/yearly_total_revenue_2011.png)
