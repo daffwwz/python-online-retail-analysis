@@ -16,6 +16,7 @@ This is a transactional data set which contains all the transactions occurring b
 2.  Visualize some plots related to Business Performance & Revenue Analysis
 
 ## Visualization using Matplotlib
+### Top 10 Countries by Transactions
 ![Top 10 Countries by Transactions](./images/top_10_countries_transactions_labeled.png)
 **Description:**
 This chart shows the top 10 countries by the number of transactions, highlighting where most sales are occurring geographically. It provides a clear view of market concentration, helping to identify which countries are the most active in terms of customer engagement and purchases.
