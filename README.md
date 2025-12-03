@@ -1,4 +1,4 @@
-# online-retail-dataset-analysis
+# Online Retail Analysis
 ## Project Background
 
 ## Tools Used
