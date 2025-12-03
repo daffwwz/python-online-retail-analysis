@@ -1,5 +1,4 @@
 # Online Retail Analysis
-## Project Background
 
 ## Tools Used
 **Python**:
@@ -31,10 +30,10 @@ This visualization is an essential tool for geographic market analysis, helping 
 ![Top 10 Customers by Transactions](./images/top_10_customers_transactions.png)
 **Insights:**
 1. **Customer prioritization:** Focus customer service efforts on high-value or frequent buyers to strengthen loyalty.
-2. **Targeted promotions:** Offer personalized discounts, gifts, or exclusive offers to top customers to encourage repeat purchases.
+2. **Targeted promotions:** Offer personalized discounts, gifts, or exclusive offers to top customers to encourage repeat purchases (can be used for lists top 15% customers to create personalized discount).
 3. **Loyalty programs:** Design reward programs based on transaction frequency or value, ensuring the most engaged customers are recognized.
 4. **Behavior understanding:** Study the purchasing patterns of top customers to inform product recommendations or marketing strategies.
-5. **Retention strategies:** Identify top customers at risk of churn and proactively engage them.
+5. **Retention strategies:** Identify top customers at risk of churn and proactively engage them (can be used for personalized time-series customers buying frequency).
 
 **Conclusion:**
 Analyzing the top customers by transactions provides actionable insights for enhancing customer experience, increasing retention, and maximizing revenue from the most valuable segment of your customer base.
@@ -53,7 +52,7 @@ Analyzing the top products by revenue provides actionable insights for sales str
 ### Total Revenues in 2011
 ![Total Revenues in 2011](./images/yearly_total_revenue_2011.png)
 **Insights:**
-1. **Monthly or quarterly trends:** Determine which months generated the highest revenue (e.g., holiday seasons or special events).
+1. **Monthly or quarterly trends:** Determine which months generated the highest revenue (ex: holiday seasons or special events).
 2. **Off-peak strategies:** Identify months with lower revenue and design promotions or campaigns to boost sales during these periods.
 3. **Forecasting:** Use seasonal patterns to predict future monthly revenue and improve cash flow management.
 4. **Performance evaluation:** Compare actual revenue to seasonal expectations to assess the effectiveness of sales and marketing strategies.
