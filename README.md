@@ -1,4 +1,4 @@
-# Online Retail Analysis
+# Online Retail Data Analytics
 
 ## Tools Used
 **Python**:
